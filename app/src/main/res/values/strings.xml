@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ListViewExample</string>
+    <string-array name="items">
+
+        <item>java</item>
+
+        <item>php</item>
+        <item>python</item>
+        <item>ruby</item>
+        <item>spring</item>
+        <item>django</item>
+        <item>jsf</item>
+        <item>laravell</item>
+        <item>java</item>
+        <item>java</item>
+
+    </string-array>
+
+
+</resources>
